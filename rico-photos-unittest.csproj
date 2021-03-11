@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\rico-photos\rico-photos.csproj" />
+    <ProjectReference Include="..\..\rico-photos.csproj" />
   </ItemGroup>
 
 </Project>
